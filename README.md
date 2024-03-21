@@ -2,8 +2,7 @@
 
 ## Team
 
-| ![박혜민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김도후](https://avatars.githubusercontent.com/u/156163982?v=4) | ![민경태](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+
 |            [박혜민](https://github.com/UpstageAILab)             |            [김민지](https://github.com/minji919kim)             |            [김도후](https://github.com/kimdohoo1102)             |            [민경태](https://github.com/starcltae)             |            [오패캠](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
