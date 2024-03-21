@@ -1,6 +1,6 @@
-# Title (Please modify the title)
+# Upsatage AILab 2 : 6조 
 
-## Team
+## Team organization
 
 | ![박혜민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김도후](https://avatars.githubusercontent.com/u/156163982?v=4) | ![민경태](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
