@@ -2,25 +2,26 @@
 
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![박혜민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김도후](https://avatars.githubusercontent.com/u/156163982?v=4) | ![민경태](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [박혜민](https://github.com/UpstageAILab)             |            [김민지](https://github.com/minji919kim)             |            [김도후](https://github.com/kimdohoo1102)             |            [민경태](https://github.com/starcltae)             |            [오패캠](https://github.com/UpstageAILab)             |
+|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
 
 ### Overview
 
-- _Write competition information_
+- House Price Prediction
+- 주어진 데이터를 활용하여 서울의 아파트 실거래가를 효과적으로 예측하는 모델을 개발하는 경진대회
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- March 21, 2024 - Start Date
+- April 1, 2024 - Final submission deadline
 
 ### Evaluation
 
-- _Write how to evaluate model_
+- 아래 내용은 추후 작성예정
 
 ## 2. Components
 
