@@ -11,12 +11,16 @@
 
 ### Overview
 
-- _Write competition information_
+- House Price Prediction
+- 주어진 데이터를 활용하여 서울의 아파트 실거래가를 효과적으로 예측하는 모델을 개발하는 경진대회
+
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- March 21, 2024 - Start Date
+- April 1, 2024 - Final submission deadline
+
+아래 내용은 대회 진행하며 업데이트 예정
 
 ### Evaluation
 
