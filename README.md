@@ -70,14 +70,14 @@
 
 ### Model descrition
 
-- ![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/b3c2895b-f570-44e7-a4b2-8badccea7095)
+![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/b3c2895b-f570-44e7-a4b2-8badccea7095)
 
 ## 5. Result
 
 ### Leader Board
 
-- _![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/24dcbd76-83c1-42a9-8849-8785655bbd4d)
-_
+_![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/24dcbd76-83c1-42a9-8849-8785655bbd4d)
+
 - 최종순위: 5위(RMSE:13331.0750)
 
 ### Presentation
