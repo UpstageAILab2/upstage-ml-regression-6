@@ -20,8 +20,6 @@
 - March 21, 2024 - Start Date
 - April 1, 2024 - Final submission deadline
 
-아래 내용은 대회 진행하며 업데이트 예정
-
 ### Evaluation
 
 - _Write how to evaluate model_
@@ -65,7 +63,7 @@
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- _[Insert your presentaion file(pdf) link](https://drive.google.com/drive/folders/1r0iW8JdaNZWcQWv_hv5Qm-K1yybsqAZ_)_
 
 ## etc
 
