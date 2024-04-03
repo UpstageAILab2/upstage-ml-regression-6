@@ -27,22 +27,17 @@
 ## 2. Components
 
 ### Directory
-
-- _Insert your directory structure_
+- Models
 
 ## 3. Data descrption
-
 - 대회에서 제공된 데이터셋을 기반으로 모델을 학습하고, 서울시 각 지역의 아파트 매매 실거래가를 예측
+
+### Dataset overview
 - 제공된 데이터셋
     - 국토교통부에서 제공하는 아파트 실거래가 데이터 : 위치, 크기, 건축년도, 주변 시설 및 교통 편의성과 같은 다양한 특징들을 포함
     - 추가데이터 : 지하철역, 버스정류장 데이터 포함
     - train set: 2007.01 ~ 2023.06
     - test set: 2023.07 ~ 2023.09
-
-### Dataset overview
-
-- ![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/95a5d85e-f552-44b4-b583-4f85c04f5655)
-
 
 ### EDA
 - 데이터가 출처가 다른 2개를 outer join으로 합쳐져서 제공된 것으로 추정
@@ -51,7 +46,6 @@
     - 트리모델 이외 LSTM, Moving Average 등의 방법 시도
 
 ### Feature engineering
-
 - **‘Target’(가격) 관련  Feature**
     - 평가 방법인 RMSE 계산 수식상 test data에 있는 고가격대 주택을 잘 예측하는 것이 중요
     - 가격이 비싼 아파트를 구분하는 feature 생성
@@ -77,11 +71,6 @@
 ### Model descrition
 
 - ![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/b3c2895b-f570-44e7-a4b2-8badccea7095)
-
-
-### Modeling Process
-
-- _Write model train and test process with capture_
 
 ## 5. Result
 
