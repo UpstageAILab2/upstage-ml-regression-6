@@ -58,12 +58,13 @@
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+- _![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/24dcbd76-83c1-42a9-8849-8785655bbd4d)
+_
+- _최종순위: 5위(RMSE:13331.0750)_
 
 ### Presentation
 
-- _[Insert your presentaion file(pdf) link](https://drive.google.com/drive/folders/1r0iW8JdaNZWcQWv_hv5Qm-K1yybsqAZ_)_
+- _[ML_6조_발표자료(pdf) link](https://drive.google.com/drive/folders/1r0iW8JdaNZWcQWv_hv5Qm-K1yybsqAZ_)_
 
 ## etc
 
