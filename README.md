@@ -22,7 +22,7 @@
 
 ### Evaluation
 
-- _Write how to evaluate model_
+- RMSE(Root Mean Squared Error) 
 
 ## 2. Components
 
@@ -34,7 +34,8 @@
 
 ### Dataset overview
 
-- _Explain using data_
+- ![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/95a5d85e-f552-44b4-b583-4f85c04f5655)
+
 
 ### EDA
 
@@ -48,7 +49,8 @@
 
 ### Model descrition
 
-- _Write model information and why your select this model_
+- ![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/b3c2895b-f570-44e7-a4b2-8badccea7095)
+
 
 ### Modeling Process
 
@@ -60,11 +62,11 @@
 
 - _![image](https://github.com/UpstageAILab2/upstage-ml-regression-6/assets/139244450/24dcbd76-83c1-42a9-8849-8785655bbd4d)
 _
-- _최종순위: 5위(RMSE:13331.0750)_
+- 최종순위: 5위(RMSE:13331.0750)
 
 ### Presentation
 
-- _[ML_6조_발표자료(pdf) link](https://drive.google.com/drive/folders/1r0iW8JdaNZWcQWv_hv5Qm-K1yybsqAZ_)_
+- [ML_6조_발표자료(pdf) link](https://drive.google.com/drive/folders/1r0iW8JdaNZWcQWv_hv5Qm-K1yybsqAZ_)
 
 ## etc
 
